@@ -6,6 +6,7 @@
   - Apenas um texto simples na tela principal. Sem maiores modificações, somente configurações de ***git***, ***github***, e alteração do texto base de `Hello World` para `Hello World Android`.
 
 ### - Temas estudados
-  - Configurações e utilização do controle de versionamento com ***Git*** e ***GitHub***
-  - Importação e exportação dos projetos em formato *.zip*
-  - Conversão de arquivos ***Java*** para ***Kotlin***
+  - Controle de versionamento com ***Git*** e ***GitHub***
+  - Importação e exportação de projetos
+  - Suporte a múltiplos idiomas
+  - Introdução a linguagem de programação ***Kotlin***
