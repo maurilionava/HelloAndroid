@@ -10,3 +10,5 @@
   - Importação e exportação de projetos
   - Suporte a múltiplos idiomas
   - Introdução a linguagem de programação ***Kotlin***
+  - Criação e modificação de telas básicas
+  - Navegação entre telas
